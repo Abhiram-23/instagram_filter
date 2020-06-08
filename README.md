@@ -1,5 +1,5 @@
 # Instagram_filter
-*This can be done by open-cv*
+*This can be done by **Python***
 
 *And the library's are* **open-cv and numpy**
 
